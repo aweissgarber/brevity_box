@@ -1,11 +1,10 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bare Bones Brevity Box app
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 1.9.3
 
 * System dependencies
 
