@@ -1,4 +1,5 @@
 BrevityBox::Application.routes.draw do
+  root :to => redirect('/boxes')
   get "static_pages/home"
   get "static_pages/help"
   resources :boxes
